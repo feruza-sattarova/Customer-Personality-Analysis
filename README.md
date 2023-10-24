@@ -1,2 +1,5 @@
 # Customer-Personality-Analysis
-The customer database analysis gives us valuable insights into the customer base. This Tableau story visualizes the customer segments, the factors that affect their purchasing power, and more.
+Analyzing customer personality involves a comprehensive study of a company's 
+preferred clientele. This process improves a business's comprehension of its 
+customer base and streamlines product adaptations to align with the distinct 
+requirements, behaviors, and concerns of various customer categories. 
